@@ -36,7 +36,22 @@ A Banyan network could potentially transport data packets from any input to any 
 
 ## Working of simulation for the inputs 0-7
 
-<img width="483" alt="Screenshot 2023-07-26 at 5 49 22 PM" src="https://github.com/Alagesan-Sushmitha/Batcher-Banyan-Network/assets/137837229/1c8d444b-ec41-4b28-b225-0db5c6ba8417">
+![image](https://github.com/Alagesan-Sushmitha/Batcher-Banyan-Network/assets/137837229/faf561df-790e-48a2-9860-0068bdc39476)
+
+![image](https://github.com/Alagesan-Sushmitha/Batcher-Banyan-Network/assets/137837229/ce1c8847-6409-40d8-a3e5-46b9fa912c36)
+
+![image](https://github.com/Alagesan-Sushmitha/Batcher-Banyan-Network/assets/137837229/8c0ad742-6631-470b-a2cd-a9c083de72f3)
+
+### Advantages of this code 
+* It accepts up to 16 numbers from the user in a dynamic manner.
+* Accepts any input  >= 0 and <= 15
+  
+## Link to the media file
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=25583167-a590-46b1-8566-ae87005a86ff
+
+
+
+
 
 
 
