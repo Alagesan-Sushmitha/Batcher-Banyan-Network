@@ -19,9 +19,27 @@ A Banyan network could potentially transport data packets from any input to any 
 ![image](https://github.com/Alagesan-Sushmitha/Batcher-Banyan-Network/assets/137837229/7c78acf6-4c4c-499b-ada9-2037affebb79)
 
 ## Algorithmic Explanation
-•	A random function in Python is invoked in this block of code to generate random integers. 
-•	Bin() converts the decimal number created at random to binary, yielding the binary corresponding string. 
-•	This function separates all binary integers digit by digit if provided n bits of binary numbers.
+*	A random function in Python is invoked in this block of code to generate random integers. 
+* Bin() converts the decimal number created at random to binary, yielding the binary corresponding string. 
+* This function separates all binary integers digit by digit if provided n bits of binary numbers.
+* The digits are sent to a specific slot in the banyan network in this block of code. 
+*	The binary numbers are 0's and 1's; if 0's, the top portion of the routing network is mapped to it. 
+*	If it's a 1, it'll be assigned to the bottom of the routing network. 
+*	Each bit is represented as each column in the Batcher-Banyan network, and here we have four bits that are divided into four columns: A, B, C, and D.
+*	The check for batcher banyan 16x16 or 8x8 which is banyan press is also done here
+*	In this section of code, the number is chosen from 1 to range+1, as the range begins at 0; the user's input number is retrieved; the number entered must be within the range indicated; random numbers are generated for the given number of input counts. 
+*	This is accomplished by importing random libraries, and then storing the resulting random numbers in the array random arr[]. 
+*	The random numbers in the array are then printed. 
+*	The integers in the array are sorted to avoid packet loss or collision.
+*	If the batcher-Banyan network is selected, the for loop runs until all of the random integers in the array are routed to a certain output. 
+*	The input numbers are converted to binary using the deci_to_binary function, and the routing is done using the banyan function.
+
+## Working of simulation for the inputs 0-7
+
+<img width="483" alt="Screenshot 2023-07-26 at 5 49 22 PM" src="https://github.com/Alagesan-Sushmitha/Batcher-Banyan-Network/assets/137837229/1c8d444b-ec41-4b28-b225-0db5c6ba8417">
+
+
+
 
 
 
